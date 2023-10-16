@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/CMakeFiles/pybind11"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/CMakeFiles/pybind11.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/CMakeFiles/pybind11-complete.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-install.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-mkdir.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-download.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-update.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-patch.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-configure.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-build.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pybind11"
+		],
+		"name" : "pybind11"
+	}
+}

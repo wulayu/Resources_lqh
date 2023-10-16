@@ -1,0 +1,14 @@
+# Target labels
+ pybind11
+# Source files and their labels
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/CMakeFiles/pybind11
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/CMakeFiles/pybind11.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/CMakeFiles/pybind11-complete.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-install.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-mkdir.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-download.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-update.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-patch.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-configure.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-build.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-test.rule

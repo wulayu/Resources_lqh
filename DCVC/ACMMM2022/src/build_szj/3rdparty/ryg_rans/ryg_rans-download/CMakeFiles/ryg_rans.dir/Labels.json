@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/CMakeFiles/ryg_rans"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/CMakeFiles/ryg_rans.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/CMakeFiles/ryg_rans-complete.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-install.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-mkdir.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-download.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-update.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-patch.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-configure.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-build.rule"
+		},
+		{
+			"file" : "/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ryg_rans"
+		],
+		"name" : "ryg_rans"
+	}
+}

@@ -1,0 +1,28 @@
+{
+    "root_path": "/data2/share/SJTU4K",
+    "test_classes": {
+        "SJTU4K": {
+            "test": 1,
+            "base_path": "CropVideos",
+            "src_type": "png",
+            "sequences": {
+                "BundBightscape/BundBightscape":                {"width": 3840, "height": 2112, "frames": 96, "gop": 32},
+                "CampfireParty/CampfireParty":                  {"width": 3840, "height": 2112, "frames": 96, "gop": 32},
+                "ConstructionField/ConstructionField":          {"width": 3840, "height": 2112, "frames": 96, "gop": 32},
+                "Fountains/Fountains":                          {"width": 3840, "height": 2112, "frames": 96, "gop": 32},
+                "Library/Library":                              {"width": 3840, "height": 2112, "frames": 96, "gop": 32},
+                "Marathon/Marathon":                            {"width": 3840, "height": 2112, "frames": 96, "gop": 32},
+                "ResidentialBuilding/ResidentialBuilding":      {"width": 3840, "height": 2112, "frames": 96, "gop": 32},
+                "Runners/Runners":                              {"width": 3840, "height": 2112, "frames": 96, "gop": 32},
+                "RushHour/RushHour":                            {"width": 3840, "height": 2112, "frames": 96, "gop": 32},
+                "Scarf/Scarf":                                  {"width": 3840, "height": 2112, "frames": 96, "gop": 32},
+                "TallBuildings/TallBuildings":                  {"width": 3840, "height": 2112, "frames": 96, "gop": 32},
+                "TrafficAndBuilding/TrafficAndBuilding":        {"width": 3840, "height": 2112, "frames": 96, "gop": 32},
+                "TrafficFlow/TrafficFlow":                      {"width": 3840, "height": 2112, "frames": 96, "gop": 32},
+                "TreeShade/TreeShade":                          {"width": 3840, "height": 2112, "frames": 96, "gop": 32},
+                "Wood/Wood":                                    {"width": 3840, "height": 2112, "frames": 96, "gop": 32}
+            }
+        }
+        
+    }
+}

@@ -1,0 +1,14 @@
+# Target labels
+ ryg_rans
+# Source files and their labels
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/CMakeFiles/ryg_rans
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/CMakeFiles/ryg_rans.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/CMakeFiles/ryg_rans-complete.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-install.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-mkdir.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-download.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-update.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-patch.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-configure.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-build.rule
+/data/szj/Resources_lqh/DCVC/ACMMM2022/src/build_szj/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-test.rule

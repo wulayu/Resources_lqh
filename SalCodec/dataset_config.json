@@ -1,0 +1,25 @@
+{
+    "root_path": "/data/lqh/deepvideo/DVC/DVC/data",
+    "test_classes": {
+        "JCT1080p": {
+            "test": 1,
+            "base_path": "CropVideos",
+            "src_type": "png",
+            "sequences": {
+                "BasketballDrive/BasketballDrive":              {"width": 1920, "height": 1024, "frames": 96, "gop": 32, "yuv": "crop_yuv/BasketballDrive_1920x1024_50.yuv"},
+                "ParkScene/ParkScene":                          {"width": 1920, "height": 1024, "frames": 96, "gop": 32, "yuv": "crop_yuv/ParkScene_1920x1024_24.yuv"},
+                "Kimono1/Kimono1":                              {"width": 1920, "height": 1024, "frames": 96, "gop": 32, "yuv": "crop_yuv/Kimono1_1920x1024_24.yuv"}
+            }
+        },
+        "JCT720p": {
+            "test": 1,
+            "base_path": "CropVideos",
+            "src_type": "png",
+            "sequences": {
+                "KristenAndSara/KristenAndSara":                {"width": 1280, "height": 704, "frames": 96, "gop": 32, "yuv": "crop_yuv/KristenAndSara_1280x704_60.yuv"},
+                "FourPeople/FourPeople":                        {"width": 1280, "height": 704, "frames": 96, "gop": 32, "yuv": "crop_yuv/FourPeople_1280x704_60.yuv"},
+                "vidyo3/vidyo3":                                {"width": 1280, "height": 704, "frames": 96, "gop": 32, "yuv": "crop_yuv/vidyo3_1280x704_60.yuv"}
+            }
+        }
+    }
+}
